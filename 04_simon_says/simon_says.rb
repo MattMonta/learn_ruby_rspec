@@ -1,4 +1,4 @@
-LITTLE_WORDS = ['and', 'over', 'the']
+LITTLE_WORDS = ['and', 'the']
 
 def echo(x)
   x
